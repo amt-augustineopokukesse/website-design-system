@@ -1,0 +1,81 @@
+.container {
+    padding: 10px;
+    margin: 10px auto;
+    border: 3px solid #A9A9A9;
+  }
+  
+  .colorPanel {
+    display: inline-block;
+    width: 32%;
+    min-height: 100px;
+    text-align: center;
+    margin: 20px auto;
+  }
+  .aliceBlue {
+    background-color: #F0F8FF;
+  }
+  .aqua {
+    background-color: #00FFFF;
+  }
+  .aquaMarine {
+    background-color: #7FFFD4;
+  }
+  .blanchedAlmond {
+    background-color: #FFEBCD;
+  }
+  .cadetBlue {
+    background-color: #5F9EA0;
+  }
+  .chocolate {
+    background-color: #D2691E;
+  }
+  /* Font css */
+  .font-panel {
+    display: inline-block;
+    width: 45%;
+  }
+  .font-name {
+    text-decoration: underline;
+    font-size: 20px;
+  }
+  .regular {
+    font-style: normal;
+  }
+  .bold {
+    font-weight: 700;
+  }
+  .italic {
+    font-style: italic;
+  }
+  .merriweather {
+    font-family: Merriweather, monospace;
+  }
+  .montserrat {
+    font-family: Montserrat, sans-serif;
+  }
+  .ibm-plex-mono {
+    font-family: 'IBM Plex Mono', serif;
+  }
+  .averia-serif-libre {
+    font-family: 'Averia Serif Libre', monospace;
+  }
+  
+  /* Text Styles Section*/
+  .text-panel h1 {
+    font-weight: 700;
+    font-size: 32px;
+    font-family: Merriweather, monospace;
+  }
+  
+  .text-panel h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: Montserrat, sans-serif;
+  }
+  
+  .text-panel p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Averia Serif Libre', monospace;
+  }
+  
